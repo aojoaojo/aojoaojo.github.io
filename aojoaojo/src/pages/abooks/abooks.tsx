@@ -4,7 +4,7 @@ export function Abooks() {
     return (
         <>
             <Layout currentPage={4} />
-            <h1>Resume</h1>
+            <h1>Abooks</h1>
         </>
     );
 }

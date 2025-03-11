@@ -4,7 +4,7 @@ export function Blog() {
     return (
         <>
             <Layout currentPage={3} />
-            <h1>Resume</h1>
+            <h1>Blog</h1>
         </>
     );
 }
